@@ -1,0 +1,10 @@
+.aside{
+    justify-content: center;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    height: 600px;
+}
+.aside h2{
+    width: 200px;
+}

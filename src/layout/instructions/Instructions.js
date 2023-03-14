@@ -1,8 +1,14 @@
 import React from 'react';
+import "./style.css"
 
-function Instructions(props) {
+function Instructions() {
     return (
-        <div></div>
+        <aside className="aside">
+         <h2>press the "add card" button to add the new card Use the "sort card" button to sort the cards press x to
+             delete item</h2>
+
+
+        </aside>
     );
 }
 
